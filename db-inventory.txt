@@ -1,0 +1,3 @@
+nama perangkat : www, lokasi : hhh
+nama perangkat : aaa, lokasi : ggg
+nama perangkat : leptop, lokasi : duman
